@@ -30,11 +30,11 @@
 ## Cite ours
 ```
 @inproceedings{
-fan2021longterm,
+liu2021longterm,
 title={Long-term Cross Adversarial Training: A Robust Meta-learning Method for Few-shot Classification Tasks },
-author={Fan, Liu and Shuyu, Zhao and Xuelong, Dai and Bin, Xiao},
-booktitle={Submitted to ICML 2021 Workshop on Adversarial Machine Learning},
+author={Fan Liu and Shuyu Zhao and Xuelong Dai and Bin Xiao},
+booktitle={ICML 2021 Workshop on Adversarial Machine Learning},
 year={2021},
-url={https://openreview.net/forum?id=RVlevnrbjnU},
+url={https://openreview.net/forum?id=RVlevnrbjnU}
 }
 ```
